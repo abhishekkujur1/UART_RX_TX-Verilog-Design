@@ -33,7 +33,7 @@ UART_RX_TX-Verilog-Design/
 - **Self-test capability**: Loopback verification mode
 
 ## 📊 Simulation Results
-![GTKWave Screenshot](C:\Users\SAMSUNG\OneDrive\Desktop\UART_RX_TX-Verilog-Design\docs\GTKWaves.png)  
+![GTKWave Screenshot](docs/waveforms/tx_rx_loopback.png)  
 *Verified in Riviera-PRO 2023.04 with 100% test coverage*
 
 ✅ **Test Cases Passed**:
