@@ -1,0 +1,12 @@
+# Ignore compiled simulation outputs
+*.vcd
+*.asdb
+*.log
+*.zip
+
+# Ignore simulator work libraries
+work/
+
+# Ignore IDE/editor-specific settings
+.vscode/
+*.bak
